@@ -1,1 +1,1 @@
-[![ANNX's github stats](https://github-readme-stats.vercel.app/api?username=NXAN2901)](https://github.com/anuraghazra/github-readme-stats)
+[![ANNX's github stats](https://github-readme-stats.vercel.app/api?username=NXAN2901&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
