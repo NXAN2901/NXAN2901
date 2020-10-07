@@ -6,6 +6,8 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   25 mins         ███████████████▓░░░░░░░░░   62.19 % 
+YAML       9 mins          ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Kotlin     5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 ```
 <!--END_SECTION:waka-->
