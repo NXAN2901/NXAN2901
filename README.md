@@ -6,10 +6,12 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
+Week: 30 September, 2020 - 07 October, 2020
 
-Markdown   25 mins         ███████████████▓░░░░░░░░░   62.19 % 
-YAML       9 mins          ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Kotlin     5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Kotlin       3 hrs 57 mins   ███████████████▓░░░░░░░░░   62.70 % 
+JavaScript   1 hr 12 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Markdown     33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Dart         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+YAML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 <!--END_SECTION:waka-->
