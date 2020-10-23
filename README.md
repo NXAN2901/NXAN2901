@@ -6,12 +6,12 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 14 October, 2020 - 21 October, 2020
+Week: 15 October, 2020 - 22 October, 2020
 
-Kotlin     26 hrs 3 mins   ██████████████████████░░░   87.72 % 
-XML        2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Groovy     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Markdown   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Dart       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Kotlin     23 hrs 44 mins  ██████████████████████░░░   88.06 % 
+XML        2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Groovy     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Markdown   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Dart       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
