@@ -6,12 +6,12 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2020 - 02 November, 2020
+Week: 27 October, 2020 - 03 November, 2020
 
-Kotlin       9 hrs 38 mins   █████████████████▓░░░░░░░   71.17 % 
-JavaScript   2 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.81 % 
-JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Properties   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Kotlin       7 hrs 52 mins   ███████████████▓░░░░░░░░░   62.49 % 
+JavaScript   2 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.37 % 
+JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Groovy       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Properties   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 <!--END_SECTION:waka-->
