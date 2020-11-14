@@ -6,12 +6,9 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2020 - 12 November, 2020
+Week: 06 November, 2020 - 13 November, 2020
 
-Kotlin            5 hrs 5 mins    ██████████████████████▒░░   88.95 % 
-Protocol Buffer   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Java              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Git Config        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Groovy            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Kotlin       2 hrs 49 mins   ███████████████████████▓░   94.98 % 
+Git Config   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 ```
 <!--END_SECTION:waka-->
