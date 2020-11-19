@@ -6,10 +6,9 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2020 - 17 November, 2020
+Week: 11 November, 2020 - 18 November, 2020
 
-Kotlin       2 hrs 11 mins   ██████████████████████▒░░   89.22 % 
-Git Config   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-XML          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Kotlin   2 hrs 10 mins   ███████████████████████▓░   94.55 % 
+XML      7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 ```
 <!--END_SECTION:waka-->
