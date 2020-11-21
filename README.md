@@ -6,7 +6,7 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 12 November, 2020 - 19 November, 2020
+Week: 13 November, 2020 - 20 November, 2020
 
 Kotlin       2 hrs 10 mins   ███████████████████████▒░   93.54 % 
 XML          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
