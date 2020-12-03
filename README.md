@@ -6,8 +6,8 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2020 - 01 December, 2020
+Week: 25 November, 2020 - 02 December, 2020
 
-Kotlin   3 hrs 43 mins   █████████████████████████   99.98 % 
+Kotlin   3 hrs 24 mins   █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
