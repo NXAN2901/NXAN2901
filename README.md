@@ -6,9 +6,9 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2020 - 14 December, 2020
+Week: 08 December, 2020 - 15 December, 2020
 
-Kotlin   1 hr 9 mins     ████████████████████████▒   97.48 % 
-XML      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Kotlin   1 hr 10 mins    ████████████████████████▒   97.54 % 
+XML      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 <!--END_SECTION:waka-->
