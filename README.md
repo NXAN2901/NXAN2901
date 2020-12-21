@@ -6,7 +6,7 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2020 - 19 December, 2020
+Week: 13 December, 2020 - 20 December, 2020
 
 Markdown   2 hrs 3 mins    ███████████████████▒░░░░░   76.99 % 
 CSS        27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.44 % 
