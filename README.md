@@ -6,11 +6,10 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2020 - 20 December, 2020
+Week: 14 December, 2020 - 21 December, 2020
 
-Markdown   2 hrs 3 mins    ███████████████████▒░░░░░   76.99 % 
-CSS        27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Kotlin     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-XML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Markdown   2 hrs 3 mins    ████████████████████▒░░░░   80.70 % 
+CSS        27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Kotlin     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
