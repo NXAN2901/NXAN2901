@@ -6,10 +6,10 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2020 - 06 January, 2021
+Week: 31 December, 2020 - 07 January, 2021
 
 XML          48 mins         █████████████████░░░░░░░░   67.74 % 
-Groovy       12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Groovy       12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.75 % 
 Kotlin       7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 Java         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
