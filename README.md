@@ -6,7 +6,7 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
 XML          48 mins         ████████████████▒░░░░░░░░   64.96 % 
 Groovy       12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 % 
