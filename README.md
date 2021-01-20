@@ -6,10 +6,10 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2021 - 18 January, 2021
+Week: 12 January, 2021 - 19 January, 2021
 
-XML      11 mins         █████████████████▒░░░░░░░   69.49 % 
-Kotlin   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Groovy   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+XML      3 mins          ██████████▒░░░░░░░░░░░░░░   41.83 % 
+Kotlin   3 mins          █████████░░░░░░░░░░░░░░░░   36.25 % 
+Groovy   1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.92 % 
 ```
 <!--END_SECTION:waka-->
