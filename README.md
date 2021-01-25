@@ -6,12 +6,12 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2021 - 23 January, 2021
+Week: 17 January, 2021 - 24 January, 2021
 
-Kotlin       1 hr 28 mins    █████████▓░░░░░░░░░░░░░░░   38.92 % 
-XML          1 hr 23 mins    █████████▒░░░░░░░░░░░░░░░   36.90 % 
-Groovy       28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Properties   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Java         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Kotlin       2 hrs           ██████████▓░░░░░░░░░░░░░░   42.56 % 
+XML          1 hr 46 mins    █████████▒░░░░░░░░░░░░░░░   37.62 % 
+Groovy       29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Properties   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Java         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 <!--END_SECTION:waka-->
