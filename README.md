@@ -6,7 +6,7 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2021 - 29 January, 2021
+Week: 23 January, 2021 - 30 January, 2021
 
 XML          6 hrs 53 mins   ████████████████▓░░░░░░░░   66.72 % 
 Kotlin       3 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   30.22 % 
