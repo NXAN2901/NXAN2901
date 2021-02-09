@@ -6,10 +6,8 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2021 - 07 February, 2021
+Week: 01 February, 2021 - 08 February, 2021
 
-XML          1 hr 27 mins    █████████████████████▒░░░   85.57 % 
-Kotlin       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Java         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+XML      6 mins          ████████████████████████▓   99.31 % 
 ```
 <!--END_SECTION:waka-->
