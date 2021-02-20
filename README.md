@@ -6,8 +6,8 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2021 - 18 February, 2021
+Week: 12 February, 2021 - 19 February, 2021
 
-XML          43 mins         █████████████████████████   99.66 % 
+XML          44 mins         ████████████████████████▓   99.32 % 
 ```
 <!--END_SECTION:waka-->
