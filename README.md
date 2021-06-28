@@ -6,12 +6,9 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 13 June, 2021 - 20 June, 2021
+Week: 21 June, 2021 - 27 June, 2021
 
-Kotlin       4 hrs 57 mins   ██████████████░░░░░░░░░░░   56.62 % 
-XML          2 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   28.93 % 
-Groovy       47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Java         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Kotlin   4 hrs 39 mins   ███████████████████████▓░   94.70 % 
+Java     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 ```
 <!--END_SECTION:waka-->
