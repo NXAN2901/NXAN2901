@@ -6,9 +6,8 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 19 July, 2021 - 25 July, 2021
+Week: 26 July, 2021 - 01 August, 2021
 
-Kotlin   12 mins         ██████████████░░░░░░░░░░░   56.37 % 
-Java     9 mins          ███████████░░░░░░░░░░░░░░   43.63 % 
+Java     2 mins          ██████████████████████░░░   88.61 % 
 ```
 <!--END_SECTION:waka-->
