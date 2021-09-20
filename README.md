@@ -6,6 +6,9 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 13 September, 2021 - 19 September, 2021
+
+Kotlin       15 mins         ███████████████████████▒░   93.33 % 
+Groovy       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 ```
 <!--END_SECTION:waka-->
