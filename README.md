@@ -6,12 +6,8 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2021 - 10 October, 2021
+Week: 11 October, 2021 - 17 October, 2021
 
-Kotlin       2 hrs 52 mins   █████████████████████░░░░   84.29 % 
-Groovy       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Properties   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Prolog       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+
 ```
 <!--END_SECTION:waka-->
