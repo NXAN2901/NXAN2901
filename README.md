@@ -6,11 +6,6 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2021 - 07 November, 2021
-
-Groovy      47 mins         █████████████████▒░░░░░░░   68.81 % 
-Other       16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-JSON        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Java        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
