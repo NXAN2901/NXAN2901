@@ -6,6 +6,9 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 15 November, 2021 - 21 November, 2021
+
+Kotlin                 1 hr 27 mins    ████████████████████████▓   98.28 % 
+Groovy                 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 <!--END_SECTION:waka-->
