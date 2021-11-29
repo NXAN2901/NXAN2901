@@ -6,9 +6,10 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 15 November, 2021 - 21 November, 2021
+Week: 22 November, 2021 - 28 November, 2021
 
-Kotlin                 1 hr 27 mins    ████████████████████████▓   98.28 % 
-Groovy                 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Kotlin                 1 hr 57 mins    █████████████████████▓░░░   87.17 % 
+Properties             10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Groovy                 6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 ```
 <!--END_SECTION:waka-->
