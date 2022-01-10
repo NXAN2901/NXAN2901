@@ -6,6 +6,9 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 03 January, 2022 - 09 January, 2022
+
+Kotlin           1 hr 33 mins    ███████████████████████▓░   95.29 % 
+GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 ```
 <!--END_SECTION:waka-->
