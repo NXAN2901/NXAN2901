@@ -6,8 +6,8 @@
 ## Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
-Kotlin   17 mins         █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
