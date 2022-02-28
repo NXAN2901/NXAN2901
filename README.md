@@ -5,13 +5,11 @@
 
 ## Weekly Stats
 <!--START_SECTION:waka-->
-```text
-From: 12 February, 2022 - To: 19 February, 2022
 
-Kotlin           4 hrs 57 mins   ███████████████████████▒░   92.74 % 
-XML              17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Groovy           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Kotlin   1 hr 15 mins    █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
