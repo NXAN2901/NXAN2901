@@ -7,9 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2022 - To: 27 February 2022
+From: 27 February 2022 - To: 06 March 2022
 
-Kotlin   1 hr 15 mins    █████████████████████████   100.00 %
+Kotlin   1 hr 5 mins     ████████████████████████▓   98.38 %
+Groovy   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
