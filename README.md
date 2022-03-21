@@ -7,9 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
+From: 13 March 2022 - To: 20 March 2022
 
-Kotlin   7 mins          █████████████████████████   100.00 %
+Kotlin     1 hr 19 mins    ████████████████████████▓   99.28 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
