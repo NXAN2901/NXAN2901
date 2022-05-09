@@ -7,14 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2022 - To: 01 May 2022
-
-Kotlin           17 hrs 44 mins  ████████████████████████▓   98.33 %
-Markdown         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-XML              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Properties       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Groovy           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
