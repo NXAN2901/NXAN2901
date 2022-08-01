@@ -2,14 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 July 2022 - To: 24 July 2022
+From: 24 July 2022 - To: 31 July 2022
 
-Kotlin                 26 hrs 52 mins  █████████████████████░░░░   83.51 %
-Markdown               2 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-XML                    1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Groovy                 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Java                   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-JavaScript             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Kotlin           4 hrs 59 mins   ██████████████████████▒░░   89.15 %
+Groovy           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Java             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Markdown         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Properties       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
