@@ -1,5 +1,6 @@
 ## Weekly Stats
 
+<img src="https://komarev.com/ghpvc/?username=NXAN2901&label=Profile%20views&color=7db6a6&style=flat" alt="Profile view counts" />
 <!--START_SECTION:waka-->
 
 ```text
