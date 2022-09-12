@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  generate-waka:
+    name: Generate waka
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -16,3 +16,14 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
+  generate-snake:
+    name: generate readme snake
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
