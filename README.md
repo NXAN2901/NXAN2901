@@ -15,4 +15,12 @@ TOML             9 mins          ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+<!---
+<details>
+<summary>Playzone, don't touch to it</a></summary>
+
 ![contribution snake](https://raw.githubusercontent.com/NXAN2901/NXAN2901/output/github-snake-dark.svg#gh-dark-mode-only)![contribution snake](https://raw.githubusercontent.com/NXAN2901/NXAN2901/output/github-snake.svg#gh-light-mode-only)
+
+</details>
+--->
