@@ -1,7 +1,5 @@
 ## Weekly Stats
 
-![contribution snake](https://raw.githubusercontent.com/NXAN2901/NXAN2901/output/github-snake-dark.svg#gh-dark-mode-only)![contribution snake](https://raw.githubusercontent.com/NXAN2901/NXAN2901/output/github-snake.svg#gh-light-mode-only)
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -16,3 +14,5 @@ TOML             9 mins          ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![contribution snake](https://raw.githubusercontent.com/NXAN2901/NXAN2901/output/github-snake-dark.svg#gh-dark-mode-only)![contribution snake](https://raw.githubusercontent.com/NXAN2901/NXAN2901/output/github-snake.svg#gh-light-mode-only)
