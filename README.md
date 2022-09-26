@@ -4,14 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 September 2022 - To: 18 September 2022
+From: 18 September 2022 - To: 25 September 2022
 
-Kotlin           7 hrs 39 mins   ██████████████████▓░░░░░░   74.11 %
-JavaScript       1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-XML              27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Markdown         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Groovy           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-TOML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Kotlin   9 hrs 6 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
